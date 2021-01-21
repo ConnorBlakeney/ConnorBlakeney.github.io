@@ -1,9 +1,25 @@
+body {
+    font-size: 14px;
+    color: #333;
+    background-color: white;
+    letter-spacing: 1px;
+}
+
+.aboutImage {
+    max-width: 100%;
+}
+
 .overlay {
     width: 100%;
     height: 100%;
     position: absolute;
     z-index: 3;
     background-color: rgba(0, 0, 0, 0.1);
+}
+
+.skills {
+    background-color: #636e72;
+    color: white;
 }
 
 .titleMessage {
@@ -25,6 +41,10 @@
 
 .name {
     font-size: 50px;
+}
+
+.section {
+    padding: 100px 0;
 }
 
 .sub {
