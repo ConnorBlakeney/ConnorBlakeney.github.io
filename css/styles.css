@@ -35,8 +35,21 @@ body {
     content: '%'
 }
 
-.counter {
-    
+.contactButton {
+    color: white;
+    padding: 15px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-radius: 2px;
+    text-decoration: none;
+
+}
+
+.contactButton:hover {
+    text-decoration: none;
+    color:  #636e72;
+    background-color: white;
 }
 
 .name {
@@ -60,7 +73,7 @@ body {
     margin-left: 10px;
 }
 
-#skills {
+#skills, .contactSection {
     background-color: #636e72;
     color: white;
 }
