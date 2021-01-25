@@ -84,6 +84,11 @@ body {
     padding: 5px;
 }
 
+.fixedNav #navigation {
+    position: fixed;
+    top: 0;
+}
+
 .items {
     padding: 0;
 }
@@ -204,10 +209,16 @@ body {
     color: white;
 }
 
+.navbar-toggler-icon {
+    color: white;
+    background-size: 100%;
+}
+
 #navigation {
     background-color: #636e72;
     padding: 20px 10px;
     z-index: 100;
+    width: 100%;
 }
 
 #navigation li {
