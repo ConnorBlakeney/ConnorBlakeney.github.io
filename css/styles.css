@@ -84,6 +84,10 @@ body {
     padding: 5px;
 }
 
+.filter li a:hover {
+    color: black;
+}
+
 .fixedNav #navigation {
     position: fixed;
     top: 0;
