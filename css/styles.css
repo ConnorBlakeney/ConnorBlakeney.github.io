@@ -199,6 +199,25 @@ body {
     font-size: 50px;
 }
 
+.navbar-brand, 
+.navbar-brand:hover {
+    color: white;
+}
+
+#navigation {
+    background-color: #636e72;
+    padding: 20px 10px;
+    z-index: 100;
+}
+
+#navigation li {
+    padding: 0 10px;
+}
+
+#navigation li a {
+    color: white;
+}
+
 .overlay {
     width: 100%;
     height: 100%;
