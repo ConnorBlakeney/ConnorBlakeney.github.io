@@ -48,7 +48,7 @@ body {
 
 .contactButton:hover {
     text-decoration: none;
-    color:  #636e72;
+    color:  #747d8c;
     background-color: white;
 }
 
@@ -76,7 +76,7 @@ body {
 }
 
 .filter .current {
-    background-color: #636e72;
+    background-color: #747d8c;
 }
 
 .filter li {
@@ -137,7 +137,7 @@ body {
 .items a {
     width: 40px;
     height: 40px;
-    background-color: #636e72;
+    background-color: #747d8c;
     position: relative;
     display: inline-block;
 
@@ -229,7 +229,7 @@ body {
 }
 
 #navigation {
-    background-color: #636e72;
+    background-color: #747d8c;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
@@ -267,7 +267,7 @@ body {
 }
 
 #skills, .contactSection {
-    background-color: #636e72;
+    background-color: #747d8c;
     color: white;
 }
 
@@ -275,7 +275,7 @@ body {
     font-size: 56px;
     margin-bottom: 10px;
     font-weight: 400;
-    color: #636e72;
+    color: #747d8c;
 }
 
 .squareContent h3 {
